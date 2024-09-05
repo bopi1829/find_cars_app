@@ -16,5 +16,10 @@ const Cars = [
   },
   {
     marque: "Audi", modele: "A1", prix: "13 590 €", energie: "Diesel", stocked: true,
+  },
+  {
+    marque: "Mercedes Benz", modele: "Classe A", prix: "16 990 €", energie: "Electrique", stocked: false,
   }
 ]
+
+export default Cars
